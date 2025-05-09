@@ -2,7 +2,7 @@
 
 > *"Introduce a little anarchy. Upset the established order, and everything becomes... chaos."* – The Joker
 
-**Black-Out** is a multithreaded HTTP stress-testing tool forged in madness. Designed to mimic various denial-of-service scenarios, this agent of chaos was built by **J0K3R** to measure the limits of your server's sanity.
+A multithreaded HTTP DoS attack tool forged in madness. Built by J0K3R, this agent of chaos delivers real, high-intensity denial-of-service assaults to test the breaking point of your servers — or someone else's, if you’ve gone full villain.
 
 It's not just a tool.  
 It's a *statement*.
