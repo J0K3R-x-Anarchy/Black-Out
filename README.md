@@ -26,7 +26,7 @@ It's a *statement*.
 To install **Black-Out** on a Linux system:
 
 ```bash
-git clone https://github.com/your-username/Black-Out.git
+git clone https://github.com/J0K3R-x-Anarchy/Black-Out.git
 cd Black-Out
 chmod 777 Black-Out
 ````
