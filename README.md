@@ -1,4 +1,4 @@
-#  📡 Black-Out
+# 📡 Black-Out
 
 > *"Introduce a little anarchy. Upset the established order, and everything becomes... chaos."* – The Joker
 
@@ -11,37 +11,39 @@ It's a *statement*.
 
 ## ⚔️ Features
 
-- 🎯 Fires GET & POST requests with randomized headers
-- ⚙️ Adjustable concurrency, request duration, and RPS limits
-- 💥 Four attack modes: Load, Stress, Spike, Soak
-- 🧠 Real-time stats: requests, successes, failures, status codes
-- 💀 CLI interface with a taste of madness
+- 🎯 Fires GET & POST requests with randomized headers  
+- ⚙️ Adjustable concurrency, request duration, and RPS limits  
+- 💥 Four attack modes: Load, Stress, Spike, Soak  
+- 🧠 Real-time stats: requests, successes, failures, status codes  
+- 💀 CLI interface with a taste of madness  
 
 ---
 
-## 🛠️ Installation & Execution
+## 📦 Installation
 
-> *"Some men just want to watch the world burn."*
+> *"All it takes is one bad line of code..."*
 
-### 🧬 Download the Binary
-
-Grab the precompiled **Linux** binary from the [Releases](./releases) section of this repository.
-
-### 🧾 Set Permissions
-
-Because every villain needs permission:
+To install **Black-Out** on a Linux system:
 
 ```bash
+git clone https://github.com/your-username/Black-Out.git
+cd Black-Out
 chmod 777 Black-Out
 ````
 
-### 🧨 Unleash the Payload
+---
+
+## 🚀 Execution
+
+> *"Let’s put a smile on that server..."*
+
+Run the binary like so:
 
 ```bash
 ./Black-Out
 ```
 
-You’ll be welcomed with a beautifully terrifying ASCII banner, followed by a menu. Choose your attack, enter the target URL, set the intensity, and let the game begin.
+You’ll be greeted by an ASCII banner. From there, follow the command-line menu to select your attack method and unleash digital chaos.
 
 ---
 
