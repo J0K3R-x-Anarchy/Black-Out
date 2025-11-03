@@ -39,8 +39,6 @@ chmod +x Black-Out
 ```
 
 ````
-
-
 ## 🚀 How to Run
 
 > *"Let’s put a smile on that server..."*
