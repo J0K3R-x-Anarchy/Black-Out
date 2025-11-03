@@ -21,40 +21,22 @@ It’s a *statement*.
 
 ## 📦 Installation
 
-You can download the pre-built **Linux** binary and **Windows `.exe`** directly from the repository **Releases** page (these files are included as release assets):
+You can download the pre-built **Windows `.exe` directly from the repository **Releases** page (these files are included as release assets):
 
 [Download releases from GitHub](https://github.com/J0K3R-x-Anarchy/Black-Out/releases)
 
-Alternatively, clone the repo (if you want the source or to keep the project locally):
 
-```bash
-git clone https://github.com/J0K3R-x-Anarchy/Black-Out.git
-cd Black-Out
-```
-
-Make it executable on Linux:
-
-```bash
-chmod +x Black-Out
-```
-
-````
 ## 🚀 How to Run
 
 > *"Let’s put a smile on that server..."*
-> just type...
-./Black-Out
-````
 
-### Windows
+Simply download `Black-Out.exe` from the Releases page and run:
 
-Double‑click `Black-Out.exe` or run:
-
-```bash
+```powershell
 Black-Out.exe
 ```
 
-You’ll see the banner and options — then choose your chaos.
+Double‑click also works — pure Windows chaos.
 
 ---
 
