@@ -15,7 +15,7 @@ It’s a *statement*.
 * ⚙️ Adjustable concurrency & duration
 * 💥 Attack profiles: Load, Stress, Spike, Soak
 * 🧠 Real-time statistics (requests, responses, fails, etc.)
-* 💀 Stylish CLI interface with Joker‑themed chaos
+* 💀 Stylish GUI interface with Joker‑themed chaos
 
 ---
 
