@@ -2,70 +2,84 @@
 
 > *"Introduce a little anarchy. Upset the established order, and everything becomes... chaos."* – The Joker
 
-A multithreaded HTTP DoS attack tool forged in madness. Built by J0K3R, this agent of chaos delivers real, high-intensity denial-of-service assaults to test the breaking point of your servers — or someone else's, if you’ve gone full villain.
+A multithreaded HTTP **Load & Stress Testing** tool forged in madness. Built by **J0K3R**, this agent of chaos helps you test how resilient your own servers are under extreme pressure.
 
-It's not just a tool.  
-It's a *statement*.
+It’s not just a tool —
+It’s a *statement*.
 
 ---
 
 ## ⚔️ Features
 
-- 🎯 Fires GET & POST requests with randomized headers  
-- ⚙️ Adjustable concurrency, request duration, and RPS limits  
-- 💥 Four attack modes: Load, Stress, Spike, Soak  
-- 🧠 Real-time stats: requests, successes, failures, status codes  
-- 💀 CLI interface with a taste of madness  
+* 🎯 Fires GET & POST requests with randomized headers
+* ⚙️ Adjustable concurrency & duration
+* 💥 Attack profiles: Load, Stress, Spike, Soak
+* 🧠 Real-time statistics (requests, responses, fails, etc.)
+* 💀 Stylish CLI interface with Joker‑themed chaos
 
 ---
 
 ## 📦 Installation
 
-> *"All it takes is one bad line of code..."*
+You can download the pre-built **Linux** binary and **Windows `.exe`** directly from the repository **Releases** page (these files are included as release assets):
 
-To install **Black-Out** on a Linux system:
+[Download releases from GitHub](https://github.com/J0K3R-x-Anarchy/Black-Out/releases)
+
+Alternatively, clone the repo (if you want the source or to keep the project locally):
 
 ```bash
 git clone https://github.com/J0K3R-x-Anarchy/Black-Out.git
 cd Black-Out
-chmod 777 Black-Out
-````
-
----
-
-## 🚀 Execution
-
-> *"Let’s put a smile on that server..."*
-
-Run the binary like so:
-
-```bash
-./Black-Out
 ```
 
-You’ll be greeted by an ASCII banner. From there, follow the command-line menu to select your attack method and unleash digital chaos.
+Make it executable on Linux:
+
+```bash
+chmod +x Black-Out
+```
+
+````
+
+
+## 🚀 How to Run
+
+> *"Let’s put a smile on that server..."*
+> just type...
+./Black-Out
+````
+
+### Windows
+
+Double‑click `Black-Out.exe` or run:
+
+```bash
+Black-Out.exe
+```
+
+You’ll see the banner and options — then choose your chaos.
 
 ---
 
-## ☠️ Attack Modes
+## ☠️ Attack Profiles
 
-| Mode   | Description                                    |
-| ------ | ---------------------------------------------- |
-| Load   | Constant request stream                        |
-| Stress | Heavy parallel load                            |
-| Spike  | Short bursts to simulate sudden traffic surges |
-| Soak   | Sustained pressure over a longer period        |
+| Mode   | What It Does           | Best For                   |
+| ------ | ---------------------- | -------------------------- |
+| Load   | Constant traffic       | Baseline performance       |
+| Stress | High parallel load     | Breaking point detection   |
+| Spike  | Sudden heavy bursts    | Peak instant load behavior |
+| Soak   | Long duration pressure | Stability over time        |
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Legal Disclaimer
 
 > *"I’m not a monster. I’m just ahead of the curve."*
 
-This tool is **strictly** for educational purposes and **authorized** stress testing only.
-**Do not** use Black-Out on systems you do not own or lack explicit permission to test.
+This tool is **strictly** for:
+✅ Educational use
+✅ Load testing your **own** servers
+✅ Authorized environments only
 
-The author claims **no responsibility** for misuse or damage caused.
-Use wisely…
+🚫 Do **NOT** use against any system you don’t own or have explicit written permission to test.
 
----
+The author takes **no responsibility** for misuse. Use wisely… or become the chaos.
